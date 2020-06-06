@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1062</width>
+    <height>698</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPlainTextEdit" name="plainTextEdit">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>10</y>
+     <width>881</width>
+     <height>671</height>
+    </rect>
+   </property>
+   <property name="plainText">
+    <string>Объем и мощность двигателя Volkswagen Polo
+
+
+Бензиновые двигатели     Рабочий объем, л./см3     Максимальная мощность кВт / л.с. / при оборотах/мин    Максимальный крутящий момент Нм / при оборотах/мин
+MPI 90 л.с.                            1,6 / 1598                                 66 / 90 / 4250-6000                                                                 155 / 3800-4000
+
+MPI 110 л.с.                          1,6 / 1598                                 81 / 110 / 5800                                                                         155 / 3800-4000
+TSI 125 л.с.                           1,4 / 1395                                92 / 125 / 5000-6000                                                                200 / 1400 - 4000
+
+Габаритные размеры Volkswagen Polo
+
+
+Длина, мм                          Ширина, мм                           Высота, мм                Дорожный просвет (клиренс), мм
+4390                                   1699                                        1467                               163
+
+Полезная нагрузка и масса Volkswagen Polo
+
+Бензиновые двигатели         Снаряженная масса, кг                 Полная масса, кг             Полезная нагрузка, к      Допустимая нагрузка на ось переднюю/заднюю,кг    Максимальная нагрузка на  крышу, кг
+MPI 90 л.с.                                1163		1700		537		820 / 880			75
+MPI 110 л.с. 	                       1175 (1208)		1700		525 (492)		830 / 880 (870/880)		75
+TSI 125 л.с. 	                       1223 - 1291		1740		517 (449)		880 / 880			75
+
+Максимальная скорость и разгон Volkswagen Polo до 100 км/ч
+
+Бензиновые двигатели 		Максимальная скорость, км/ч		Время разгона до 80 км/ч / 100 км/ч, с.
+MPI 90 л.с. 				178			7,2 / 11,2
+MPI 110 л.с. 				191 (184)			6,7 / 10,4 (7,7 / 11,7)
+TSI 125 л.с. 				198			6,2 / 9,0
+
+Расход топлива Volkswagen Polo на 100 км
+
+Бензиновые двигатели Расход топлива		в городском цикле, л/100км	Расход топлива	в загородном цикле, л/100км	Расход топливав смешанном цикле, л/100км	Выбросы CO2 в смешанном цикле, г/км
+
+MPI 90 л.с. 					7,7				4,5		5,7			134
+MPI 110 л.с. 					7,8 (7,9)				4,6 (4,7)		5,7 (5,9)			134 (139)
+TSI 125 л.с. 					7,5 (7,3)				4,7 (4,8)		5,7 (5,7)			131
+
+Объем топливного бака и багажника Volkswagen Polo
+
+Объем багажного отделения, л	Объем топливного бака, л
+460				55</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>20</y>
+     <width>151</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>Z3Z3.png</normaloff>Z3Z3.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>200</width>
+     <height>200</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>150</y>
+     <width>151</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>volkswagen_polo_sedan_2016.png</normaloff>volkswagen_polo_sedan_2016.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>200</width>
+     <height>200</height>
+    </size>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

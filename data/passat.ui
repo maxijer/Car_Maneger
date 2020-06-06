@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1013</width>
+    <height>682</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPlainTextEdit" name="plainTextEdit">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>20</y>
+     <width>701</width>
+     <height>681</height>
+    </rect>
+   </property>
+   <property name="plainText">
+    <string>                               Passat 		Passat 		Passat		Pssat
+	    Бензиновый		Бензиновый 		Бензиновый		Дизель
+	    Двигатель		Двигатель		Двигатель		1968 / 110(150)
+	    1395 / 92(125)	1395 / 110(150) 	1798 / 132(180)
+
+
+Рабочий объем, куб. см.:  1395       1395    1798   1968
+
+
+Макс. крутящий момент Нм / при оборотах/мин.:  200-1400 - 4000    250/1500 - 3000   250 / 1250- 5000     340/1750-3000
+
+Масса:
+ 
+Снаряженная масса, кг: 1395(1367)   1413   1480  1501
+
+Полная масса, кг: 1950(1910)   1970   2030   2040
+
+Динамика
+
+Полезная нагрузка, кг:  630(618)  632 625   614
+
+Макс. скорость, км/ч:  208  220  232  218
+
+Время разгона 0-80км/ч / 0-100 км/ч, с.:  6,5 / 9,7   6,0 / 8,4  5,8/7,9  6,3 / 8,7
+
+Расход топлива
+
+в городском цикле, л/100км:   6,1(6,9)  6,3  7,1   5,4
+
+в загородном цикле, л/100км:  4,5(4,6)  4,5  5  4,2
+
+в смешанном цикле, л/100км:   5,0(5,4)  5,1  5,8  4,6
+
+выбросы CO2 в смешанном цикле, г/км  117(126)  118  130  121
+
+Прочие размеры
+
+Длина, мм: 4767   4767  4767  4767
+
+Ширина, мм:  2083   2083   2083   2083
+
+Высота, мм: 1456  1456  1456  1456
+
+Дорожный просвет (клиренс), мм:   160    160   160   160
+
+Диаметр разворота, м: ~11,7   ~11,7   ~11,7   ~11,7
+
+Объем багажника, л:  586-1152    586-1152   586-1152   586-1152
+
+Объем топливного бака, л: ~59 ~59  ~59  ~59
+ 
+  </string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>14</x>
+     <y>20</y>
+     <width>201</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>volkswagen_passat_b8.png</normaloff>volkswagen_passat_b8.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>200</width>
+     <height>200</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>160</y>
+     <width>201</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>pas2.0.jpg</normaloff>pas2.0.jpg</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>200</width>
+     <height>200</height>
+    </size>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
