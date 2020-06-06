@@ -54,6 +54,9 @@
      <height>31</height>
     </rect>
    </property>
+   <property name="toolTip">
+    <string>Добавить в корзину</string>
+   </property>
    <property name="text">
     <string/>
    </property>
@@ -77,6 +80,9 @@
      <height>31</height>
     </rect>
    </property>
+   <property name="toolTip">
+    <string>Добавить в сравнение</string>
+   </property>
    <property name="text">
     <string/>
    </property>
@@ -93,6 +99,9 @@
      <width>41</width>
      <height>31</height>
     </rect>
+   </property>
+   <property name="toolTip">
+    <string>Удалить из корзины</string>
    </property>
    <property name="text">
     <string/>
@@ -116,6 +125,9 @@
      <width>31</width>
      <height>31</height>
     </rect>
+   </property>
+   <property name="toolTip">
+    <string>Удаление из базы</string>
    </property>
    <property name="text">
     <string/>

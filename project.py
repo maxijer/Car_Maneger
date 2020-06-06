@@ -328,7 +328,6 @@ class All_mashin(QWidget):  # класс для работы с машинами
         global flag
         model = self.model.text()
         con = sqlite3.connect('db/rabota.db')
-
         # Создание курсора
         cur = con.cursor()
         # Выполнение запроса и добавляем логин и пароль
